@@ -1,0 +1,2 @@
+User-agent: *
+Sitemap: https://acmday.github.io/sitemap.xml

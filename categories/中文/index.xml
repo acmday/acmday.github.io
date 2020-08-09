@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>中文 on Even - A super concise theme for Hugo</title>
+    <link>https://acmday.github.io/categories/%E4%B8%AD%E6%96%87/</link>
+    <description>Recent content in 中文 on Even - A super concise theme for Hugo</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Sun, 09 Aug 2020 16:28:10 +0800</lastBuildDate>
+    
+	<atom:link href="https://acmday.github.io/categories/%E4%B8%AD%E6%96%87/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>[中文] 《静夜思》</title>
+      <link>https://acmday.github.io/post/libai-night-think/</link>
+      <pubDate>Sun, 09 Aug 2020 16:28:10 +0800</pubDate>
+      
+      <guid>https://acmday.github.io/post/libai-night-think/</guid>
+      <description>《静夜思》是中国唐朝诗人李白的诗。 全文： 床前明月光，疑是地上霜。 举头望明月，低头思故乡。</description>
+    </item>
+    
+    <item>
+      <title>[中文] 《望岳》</title>
+      <link>https://acmday.github.io/post/dufu-mountain/</link>
+      <pubDate>Sun, 09 Aug 2020 16:27:42 +0800</pubDate>
+      
+      <guid>https://acmday.github.io/post/dufu-mountain/</guid>
+      <description>《望岳》是中国唐朝诗人杜甫的诗。 全文： 岱宗夫如何？齐鲁青未了。 造化钟神秀，阴阳割昏晓。 荡胸生曾云，决眦入归鸟。 会当凌绝顶，一览众山小。</description>
+    </item>
+    
+    <item>
+      <title>[中文] 《茅屋为秋风所破歌》</title>
+      <link>https://acmday.github.io/post/du-house/</link>
+      <pubDate>Sun, 09 Aug 2020 15:30:54 +0800</pubDate>
+      
+      <guid>https://acmday.github.io/post/du-house/</guid>
+      <description>《茅屋为秋风所破歌》是中国唐朝诗人杜甫的诗。 全文： 八月秋高风怒号，卷我屋上三重茅。 茅飞渡江洒江郊，高者挂罥长林梢，下者飘转沉塘坳。 南村群童欺</description>
+    </item>
+    
+  </channel>
+</rss>
